@@ -1,0 +1,1 @@
+I developed a stock price prediction system using Recurrent Neural Networks (RNNs) and integrated it with a Tkinter-based GUI. Utilizing the Yahoo Finance API for data, this project leverages the power of RNNs to forecast stock prices, providing an intuitive and user-friendly interface for real-time predictions.
